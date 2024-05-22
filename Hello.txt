@@ -1,1 +1,3 @@
 Hallo, ich bin Gonçalo Francisco
+Notiz: Ich arbeite gerade in meiner ersten Git-Aufgabe.
+
